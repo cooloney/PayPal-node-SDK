@@ -1,9 +1,9 @@
 {
   "author": "PayPal <DL-PP-NODEJS-SDK@paypal.com> (https://developer.paypal.com/)",
-  "name": "paypal-rest-sdk",
+  "name": "microduino-paypal-rest-sdk",
   "description": "SDK for PayPal REST APIs",
-  "version": "1.6.1",
-  "homepage": "https://github.com/paypal/PayPal-node-SDK",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cooloney/PayPal-node-SDK",
   "keywords": [
     "paypal",
     "rest",
@@ -12,16 +12,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/paypal/PayPal-node-SDK.git"
+    "url": "https://github.com/cooloney/PayPal-node-SDK.git"
   },
   "bugs": {
-    "url": "https://github.com/paypal/PayPal-node-SDK/issues",
+    "url": "https://github.com/cooloney/PayPal-node-SDK/issues",
     "email": "DL-PP-NODEJS-SDK@paypal.com"
   },
   "licenses": [
     {
       "type": "Custom",
-      "url": "https://github.com/paypal/PayPal-node-SDK/blob/master/LICENSE.txt"
+      "url": "https://github.com/cooloney/PayPal-node-SDK/blob/master/LICENSE.txt"
     }
   ],
   "engines": {
